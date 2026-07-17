@@ -59,7 +59,7 @@ ur5e_simulation/
 Clone the repository:
 
 ```bash
-git clone https://github.com/<KunwarXDev>/ur5e_simulation.git
+git clone https://github.com/KunwarXDev/ur5e_simulation.git
 ```
 
 Go to the workspace:
@@ -156,15 +156,6 @@ Python ROS2 nodes for testing and future automation.
 
 ---
 
-# Screenshots
-
-## Gazebo
-
-_/home/kunwar/Downloads/WhatsApp Image 2026-07-17 at 17.19.15.jpeg_
-
-## RViz
-
-_/home/kunwar/Downloads/WhatsApp Image 2026-07-17 at 17.19.16.jpeg_
 
 
 # License
