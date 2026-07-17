@@ -181,7 +181,7 @@ Electronics & Communication Engineering
 
 KIET Group of Institutions
 
-GitHub: https://github.com/<KunwarXDev>
+GitHub: https://github.com/KunwarXDev
 
 ---
 
