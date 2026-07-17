@@ -156,15 +156,6 @@ Python ROS2 nodes for testing and future automation.
 
 ---
 
-# Screenshots
-
-## Gazebo
-
-_/home/kunwar/Downloads/WhatsApp Image 2026-07-17 at 17.19.15.jpeg_
-
-## RViz
-
-_/home/kunwar/Downloads/WhatsApp Image 2026-07-17 at 17.19.16.jpeg_
 
 
 # License
@@ -181,7 +172,7 @@ Electronics & Communication Engineering
 
 KIET Group of Institutions
 
-GitHub: https://github.com/<KunwarXDev>
+GitHub: https://github.com/KunwarXDev
 
 ---
 
