@@ -1,0 +1,25 @@
+Panels:
+  - Class: rviz_common/Displays
+    Name: Displays
+
+Visualization Manager:
+  Class: ""
+  Displays:
+    - Class: rviz_default_plugins/Grid
+      Name: Grid
+      Enabled: true
+
+    - Class: rviz_default_plugins/RobotModel
+      Name: Robot Model
+      Enabled: true
+
+    - Class: rviz_default_plugins/TF
+      Name: TF
+      Enabled: true
+
+    - Class: rviz_default_plugins/Axes
+      Name: Axes
+      Enabled: true
+
+  Global Options:
+    Fixed Frame: base_link

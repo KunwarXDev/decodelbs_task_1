@@ -1,0 +1,18 @@
+planner_configs:
+
+  RRTConnect:
+    type: geometric::RRTConnect
+    range: 0.0
+
+  RRTstar:
+    type: geometric::RRTstar
+    range: 0.0
+
+  PRM:
+    type: geometric::PRM
+
+ur_manipulator:
+  planner_configs:
+    - RRTConnect
+    - RRTstar
+    - PRM
